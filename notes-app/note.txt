@@ -1,0 +1,2 @@
+hello this is my first notes app This is another line appended to the note file 
+ This is another line appended to the note file
